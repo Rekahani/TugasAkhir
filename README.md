@@ -2,8 +2,8 @@
 
 **Anggota :** <br>
 
-**Nia Dwi Rahayu ; 312010298** <br>
+**1. Nia Dwi Rahayu ; 312010298** <br>
 
-**Aning Kinanti ; 312010364** <br>
+**2. Aning Kinanti ; 312010364** <br>
 
-**Reka Hani ;312010343** <br>
+**3. Reka Hani ; 312010343** <br>
