@@ -7,3 +7,7 @@
 **2. Aning Kinanti ; 312010364** <br>
 
 **3. Reka Hani ; 312010343** <br>
+
+# Banner Hasil Project
+
+![banner.png](/TugasAkhir/banner.png)
