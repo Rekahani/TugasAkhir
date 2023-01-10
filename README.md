@@ -10,4 +10,4 @@
 
 # Banner Hasil Project
 
-![banner.png](/OOP/TugasAkhir/banner.png)
+![banner.png](/banner/banner.png)
